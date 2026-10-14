@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062"
   },
   "prices": {
-    "usd": "0.83",
-    "usd_foil": "6.28",
+    "usd": "0.94",
+    "usd_foil": "7.05",
     "usd_etched": null,
-    "eur": "0.65",
-    "eur_foil": "2.29",
+    "eur": "0.66",
+    "eur_foil": "2.15",
     "tix": "0.03"
   },
   "cardmarket_id": 374412,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/252/snow-covered-swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c835f235-4196-4281-9788-13e5d54a92d0",
-  "_catalogFetchedAt": "2026-08-28T21:20:53.486Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:09.104Z"
 }

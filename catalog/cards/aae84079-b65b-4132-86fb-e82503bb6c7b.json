@@ -31,17 +31,17 @@
     }
   ],
   "prices": {
-    "usd": "6.03",
-    "usd_foil": "11.00",
+    "usd": "6.17",
+    "usd_foil": "9.90",
     "usd_etched": null,
-    "eur": "4.18",
-    "eur_foil": "10.15",
-    "tix": "1.28"
+    "eur": "4.16",
+    "eur_foil": "9.87",
+    "tix": "1.30"
   },
   "cardmarket_id": 743247,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/24/mountain-mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/aae84079-b65b-4132-86fb-e82503bb6c7b",
-  "_catalogFetchedAt": "2026-08-28T21:21:14.398Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:28.923Z"
 }

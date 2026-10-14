@@ -31,11 +31,11 @@
     }
   ],
   "prices": {
-    "usd": "1.93",
-    "usd_foil": "5.94",
+    "usd": "2.80",
+    "usd_foil": "5.76",
     "usd_etched": null,
-    "eur": "1.64",
-    "eur_foil": "4.42",
+    "eur": "1.70",
+    "eur_foil": "4.61",
     "tix": "0.78"
   },
   "cardmarket_id": 743401,
@@ -43,5 +43,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/22/island-island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/76c343f5-6955-4ba2-a435-36d55182d1dd",
-  "_catalogFetchedAt": "2026-08-28T21:21:13.904Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:28.623Z"
 }

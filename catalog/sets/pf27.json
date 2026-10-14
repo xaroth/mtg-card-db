@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "1f79d96e-62df-4b66-92cb-5e7720bdeb71",
+  "code": "pf27",
+  "name": "MagicFest 2027",
+  "uri": "https://api.scryfall.com/sets/1f79d96e-62df-4b66-92cb-5e7720bdeb71",
+  "scryfall_uri": "https://scryfall.com/sets/pf27",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf27&unique=prints",
+  "released_at": "2027-01-01",
+  "set_type": "promo",
+  "card_count": 1,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:08.761Z"
+}

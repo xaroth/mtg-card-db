@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "790dcf48-ab51-4b10-9933-6b7e3baf0f52",
+  "name": "Forest",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "394",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg?1790137025",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg?1790137025",
+    "large": "https://cards.scryfall.io/large/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg?1790137025",
+    "png": "https://cards.scryfall.io/png/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.png?1790137025",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg?1790137025",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/790dcf48-ab51-4b10-9933-6b7e3baf0f52.jpg?1790137025"
+  },
+  "prices": {
+    "usd": "0.60",
+    "usd_foil": "0.62",
+    "usd_etched": null,
+    "eur": "0.42",
+    "eur_foil": "1.07",
+    "tix": "0.01"
+  },
+  "cardmarket_id": 907354,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fra/394/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/790dcf48-ab51-4b10-9933-6b7e3baf0f52",
+  "_catalogFetchedAt": "2026-10-14T10:10:01.477Z"
+}

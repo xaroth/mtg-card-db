@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "796b72af-5078-427d-b566-9bccad17090f",
+  "name": "Plains",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "382",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/796b72af-5078-427d-b566-9bccad17090f.jpg?1790136884",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/796b72af-5078-427d-b566-9bccad17090f.jpg?1790136884",
+    "large": "https://cards.scryfall.io/large/front/7/9/796b72af-5078-427d-b566-9bccad17090f.jpg?1790136884",
+    "png": "https://cards.scryfall.io/png/front/7/9/796b72af-5078-427d-b566-9bccad17090f.png?1790136884",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/796b72af-5078-427d-b566-9bccad17090f.jpg?1790136884",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/796b72af-5078-427d-b566-9bccad17090f.jpg?1790136884"
+  },
+  "prices": {
+    "usd": "0.56",
+    "usd_foil": "0.94",
+    "usd_etched": null,
+    "eur": "0.50",
+    "eur_foil": "1.15",
+    "tix": "0.01"
+  },
+  "cardmarket_id": 907342,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fra/382/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/796b72af-5078-427d-b566-9bccad17090f",
+  "_catalogFetchedAt": "2026-10-14T10:09:59.066Z"
+}

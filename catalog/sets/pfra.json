@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f481f850-c81c-4313-bdef-9a0c0f1561fb",
+  "code": "pfra",
+  "name": "Reality Fracture Promos",
+  "uri": "https://api.scryfall.com/sets/f481f850-c81c-4313-bdef-9a0c0f1561fb",
+  "scryfall_uri": "https://scryfall.com/sets/pfra",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apfra&unique=prints",
+  "released_at": "2026-10-02",
+  "set_type": "promo",
+  "card_count": 90,
+  "parent_set_code": "fra",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fra.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:08.960Z"
+}

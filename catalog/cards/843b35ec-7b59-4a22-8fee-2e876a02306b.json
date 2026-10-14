@@ -31,17 +31,17 @@
     }
   ],
   "prices": {
-    "usd": "2.41",
-    "usd_foil": "5.02",
+    "usd": "1.84",
+    "usd_foil": "5.07",
     "usd_etched": null,
-    "eur": "0.93",
-    "eur_foil": "3.78",
-    "tix": "1.22"
+    "eur": "1.18",
+    "eur_foil": "3.29",
+    "tix": "1.51"
   },
   "cardmarket_id": 743402,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/23/swamp-swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/843b35ec-7b59-4a22-8fee-2e876a02306b",
-  "_catalogFetchedAt": "2026-08-28T21:21:14.194Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:28.811Z"
 }

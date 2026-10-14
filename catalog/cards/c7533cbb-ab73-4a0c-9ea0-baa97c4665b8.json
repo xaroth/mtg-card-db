@@ -17,7 +17,7 @@
   },
   "prices": {
     "usd": null,
-    "usd_foil": "1.59",
+    "usd_foil": "1.62",
     "usd_etched": null,
     "eur": null,
     "eur_foil": "0.64",
@@ -28,5 +28,5 @@
   "nonfoil": false,
   "scryfall_uri": "https://scryfall.com/card/dft/510/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8",
-  "_catalogFetchedAt": "2026-08-28T21:20:32.858Z"
+  "_catalogFetchedAt": "2026-10-14T10:09:45.324Z"
 }

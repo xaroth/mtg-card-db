@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "4e7f31db-cf1b-4719-9ff9-2b9a3b3957f4",
+  "code": "mdc",
+  "mtgo_code": "mdc",
+  "arena_code": "mdc",
+  "tcgplayer_id": 24910,
+  "name": "Darkhold Destiny Commander",
+  "uri": "https://api.scryfall.com/sets/4e7f31db-cf1b-4719-9ff9-2b9a3b3957f4",
+  "scryfall_uri": "https://scryfall.com/sets/mdc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amdc&unique=prints",
+  "released_at": "2027-04-09",
+  "set_type": "commander",
+  "card_count": 1,
+  "parent_set_code": "mdd",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mdc.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:08.159Z"
+}

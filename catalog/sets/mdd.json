@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "1c75c20b-221e-47c5-83be-f3be4c15087d",
+  "code": "mdd",
+  "mtgo_code": "mdd",
+  "arena_code": "mdd",
+  "tcgplayer_id": 24909,
+  "name": "Marvel: Darkhold Destiny",
+  "uri": "https://api.scryfall.com/sets/1c75c20b-221e-47c5-83be-f3be4c15087d",
+  "scryfall_uri": "https://scryfall.com/sets/mdd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amdd&unique=prints",
+  "released_at": "2027-04-09",
+  "set_type": "expansion",
+  "card_count": 12,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mdd.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:08.358Z"
+}

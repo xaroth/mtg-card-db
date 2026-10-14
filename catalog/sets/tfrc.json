@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c4c1ce20-ddbc-48e1-83ad-7c3b849ec9ef",
+  "code": "tfrc",
+  "name": "Reality Fracture Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/c4c1ce20-ddbc-48e1-83ad-7c3b849ec9ef",
+  "scryfall_uri": "https://scryfall.com/sets/tfrc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfrc&unique=prints",
+  "released_at": "2026-10-02",
+  "set_type": "token",
+  "card_count": 17,
+  "parent_set_code": "frc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/frc.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:09.560Z"
+}

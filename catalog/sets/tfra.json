@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8a39f34a-1963-4d72-b423-5813d33b1aa7",
+  "code": "tfra",
+  "name": "Reality Fracture Tokens",
+  "uri": "https://api.scryfall.com/sets/8a39f34a-1963-4d72-b423-5813d33b1aa7",
+  "scryfall_uri": "https://scryfall.com/sets/tfra",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfra&unique=prints",
+  "released_at": "2026-10-02",
+  "set_type": "token",
+  "card_count": 18,
+  "parent_set_code": "fra",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fra.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:09.364Z"
+}

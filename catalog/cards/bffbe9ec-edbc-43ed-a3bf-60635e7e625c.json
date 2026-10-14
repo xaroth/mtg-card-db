@@ -31,17 +31,17 @@
     }
   ],
   "prices": {
-    "usd": "2.99",
-    "usd_foil": "9.67",
+    "usd": "4.32",
+    "usd_foil": "9.69",
     "usd_etched": null,
-    "eur": "2.78",
-    "eur_foil": "8.91",
-    "tix": "0.09"
+    "eur": "2.84",
+    "eur_foil": "8.89",
+    "tix": "0.10"
   },
   "cardmarket_id": 740990,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/26/command-tower-command-tower?utm_source=api",
   "uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
-  "_catalogFetchedAt": "2026-08-28T21:21:14.791Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:29.417Z"
 }

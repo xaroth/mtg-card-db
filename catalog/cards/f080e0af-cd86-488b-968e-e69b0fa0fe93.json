@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "f080e0af-cd86-488b-968e-e69b0fa0fe93",
+  "name": "Swamp",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "390",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg?1790136950",
+    "normal": "https://cards.scryfall.io/normal/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg?1790136950",
+    "large": "https://cards.scryfall.io/large/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg?1790136950",
+    "png": "https://cards.scryfall.io/png/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.png?1790136950",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg?1790136950",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f080e0af-cd86-488b-968e-e69b0fa0fe93.jpg?1790136950"
+  },
+  "prices": {
+    "usd": "0.63",
+    "usd_foil": "0.69",
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": "0.85",
+    "tix": "0.01"
+  },
+  "cardmarket_id": 907350,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fra/390/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/f080e0af-cd86-488b-968e-e69b0fa0fe93",
+  "_catalogFetchedAt": "2026-10-14T10:10:00.686Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8db8b954-0cf5-4a86-a338-0c8795b557bf",
+  "code": "tnau",
+  "name": "Nauctis: The Sunken Realm Tokens",
+  "uri": "https://api.scryfall.com/sets/8db8b954-0cf5-4a86-a338-0c8795b557bf",
+  "scryfall_uri": "https://scryfall.com/sets/tnau",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atnau&unique=prints",
+  "released_at": "2027-02-05",
+  "set_type": "token",
+  "card_count": 1,
+  "parent_set_code": "nau",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:09.974Z"
+}

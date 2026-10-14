@@ -17,10 +17,10 @@
   },
   "prices": {
     "usd": "0.27",
-    "usd_foil": "0.34",
+    "usd_foil": "0.33",
     "usd_etched": null,
     "eur": "0.16",
-    "eur_foil": "0.27",
+    "eur_foil": "0.30",
     "tix": "0.03"
   },
   "cardmarket_id": 759795,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh3/306/swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c8e3909e-e00a-4855-a0be-b1c538f89cb8",
-  "_catalogFetchedAt": "2026-08-28T21:20:54.480Z"
+  "_catalogFetchedAt": "2026-10-14T10:10:10.211Z"
 }

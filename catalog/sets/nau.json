@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "8e82e106-d6c8-4360-8c83-f6b4f8c5ecd1",
+  "code": "nau",
+  "mtgo_code": "nau",
+  "arena_code": "nau",
+  "name": "Nauctis: The Sunken Realm",
+  "uri": "https://api.scryfall.com/sets/8e82e106-d6c8-4360-8c83-f6b4f8c5ecd1",
+  "scryfall_uri": "https://scryfall.com/sets/nau",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Anau&unique=prints",
+  "released_at": "2027-02-05",
+  "set_type": "expansion",
+  "card_count": 0,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:08.559Z"
+}

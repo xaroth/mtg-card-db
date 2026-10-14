@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9c2ab581-f38a-4a77-8bf6-585ba8bb9c0b",
+  "code": "tfdc",
+  "name": "Foundations Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/9c2ab581-f38a-4a77-8bf6-585ba8bb9c0b",
+  "scryfall_uri": "https://scryfall.com/sets/tfdc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfdc&unique=prints",
+  "released_at": "2026-10-02",
+  "set_type": "token",
+  "card_count": 17,
+  "parent_set_code": "fdc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fdc.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:09.154Z"
+}

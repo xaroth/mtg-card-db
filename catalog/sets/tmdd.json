@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7dd3f530-5415-4819-b743-1b10e84daa19",
+  "code": "tmdd",
+  "name": "Marvel: Darkhold Destiny Tokens",
+  "uri": "https://api.scryfall.com/sets/7dd3f530-5415-4819-b743-1b10e84daa19",
+  "scryfall_uri": "https://scryfall.com/sets/tmdd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmdd&unique=prints",
+  "released_at": "2027-04-09",
+  "set_type": "token",
+  "card_count": 6,
+  "parent_set_code": "mdd",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mdd.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:09.758Z"
+}

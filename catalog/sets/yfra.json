@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "95cd2c93-807b-48ea-9eba-37185ad49ae1",
+  "code": "yfra",
+  "name": "Alchemy: Reality Fracture",
+  "uri": "https://api.scryfall.com/sets/95cd2c93-807b-48ea-9eba-37185ad49ae1",
+  "scryfall_uri": "https://scryfall.com/sets/yfra",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayfra&unique=prints",
+  "released_at": "2026-10-13",
+  "set_type": "alchemy",
+  "card_count": 31,
+  "parent_set_code": "fra",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y26.svg?1791777600",
+  "_catalogFetchedAt": "2026-10-14T10:11:10.159Z"
+}

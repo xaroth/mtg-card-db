@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "ec2ceca8-2d90-4d8f-ac47-cd8134e8d859",
+  "name": "Mountain",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "391",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.jpg?1790136955",
+    "normal": "https://cards.scryfall.io/normal/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.jpg?1790136955",
+    "large": "https://cards.scryfall.io/large/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.jpg?1790136955",
+    "png": "https://cards.scryfall.io/png/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.png?1790136955",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.jpg?1790136955",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/c/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859.jpg?1790136955"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.63",
+    "usd_etched": null,
+    "eur": "0.45",
+    "eur_foil": "1.07",
+    "tix": "0.01"
+  },
+  "cardmarket_id": 907351,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fra/391/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ec2ceca8-2d90-4d8f-ac47-cd8134e8d859",
+  "_catalogFetchedAt": "2026-10-14T10:10:00.876Z"
+}

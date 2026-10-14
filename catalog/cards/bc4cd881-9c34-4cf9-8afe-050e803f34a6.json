@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "bc4cd881-9c34-4cf9-8afe-050e803f34a6",
+  "name": "Island",
+  "set": "fra",
+  "set_name": "Reality Fracture",
+  "collector_number": "385",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.jpg?1790136912",
+    "normal": "https://cards.scryfall.io/normal/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.jpg?1790136912",
+    "large": "https://cards.scryfall.io/large/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.jpg?1790136912",
+    "png": "https://cards.scryfall.io/png/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.png?1790136912",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.jpg?1790136912",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/c/bc4cd881-9c34-4cf9-8afe-050e803f34a6.jpg?1790136912"
+  },
+  "prices": {
+    "usd": "0.79",
+    "usd_foil": "1.15",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "0.99",
+    "tix": "0.01"
+  },
+  "cardmarket_id": 907345,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fra/385/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/bc4cd881-9c34-4cf9-8afe-050e803f34a6",
+  "_catalogFetchedAt": "2026-10-14T10:09:59.701Z"
+}
