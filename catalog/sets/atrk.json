@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cc4acab6-673e-489b-bbf8-1492a75faf4b",
+  "code": "atrk",
+  "name": "Star Trek Art Series",
+  "uri": "https://api.scryfall.com/sets/cc4acab6-673e-489b-bbf8-1492a75faf4b",
+  "scryfall_uri": "https://scryfall.com/sets/atrk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aatrk&unique=prints",
+  "released_at": "2026-11-13",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "trk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/trk.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:31.862Z"
+}

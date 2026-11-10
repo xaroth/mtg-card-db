@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f449a616-4c8b-48b5-9b0e-70a58fd1bf3b",
+  "code": "ahob",
+  "name": "The Hobbit Art Series",
+  "uri": "https://api.scryfall.com/sets/f449a616-4c8b-48b5-9b0e-70a58fd1bf3b",
+  "scryfall_uri": "https://scryfall.com/sets/ahob",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aahob&unique=prints",
+  "released_at": "2026-08-14",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "hob",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/hob.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:31.269Z"
+}

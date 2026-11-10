@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ba24e20f-9826-4284-b9e8-790281821328",
+  "code": "ahoc",
+  "name": "The Hobbit Eternal Art Series",
+  "uri": "https://api.scryfall.com/sets/ba24e20f-9826-4284-b9e8-790281821328",
+  "scryfall_uri": "https://scryfall.com/sets/ahoc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aahoc&unique=prints",
+  "released_at": "2026-08-14",
+  "set_type": "memorabilia",
+  "card_count": 12,
+  "parent_set_code": "hoc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/hoc.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:31.464Z"
+}

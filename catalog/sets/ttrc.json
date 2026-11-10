@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "6d9b2a73-ef3f-4d0d-9bb5-20a52db32504",
+  "code": "ttrc",
+  "name": "Star Trek Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/6d9b2a73-ef3f-4d0d-9bb5-20a52db32504",
+  "scryfall_uri": "https://scryfall.com/sets/ttrc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attrc&unique=prints",
+  "released_at": "2026-11-13",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "trc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/trc.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:32.465Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a65d291a-a87a-4943-870d-5d4757f0f734",
+  "code": "smsh",
+  "name": "Marvel Super Heroes Substitue Cards",
+  "uri": "https://api.scryfall.com/sets/a65d291a-a87a-4943-870d-5d4757f0f734",
+  "scryfall_uri": "https://scryfall.com/sets/smsh",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asmsh&unique=prints",
+  "released_at": "2026-06-26",
+  "set_type": "token",
+  "card_count": 1,
+  "parent_set_code": "msh",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/msh.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:32.263Z"
+}

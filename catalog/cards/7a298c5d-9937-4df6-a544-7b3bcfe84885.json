@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1783942112"
   },
   "prices": {
-    "usd": "0.55",
+    "usd": "0.54",
     "usd_foil": "5.13",
     "usd_etched": null,
-    "eur": "0.26",
-    "eur_foil": "3.03",
+    "eur": "0.34",
+    "eur_foil": "3.76",
     "tix": "0.03"
   },
   "cardmarket_id": 21715,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/zen/245/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/7a298c5d-9937-4df6-a544-7b3bcfe84885",
-  "_catalogFetchedAt": "2026-10-14T10:11:03.857Z"
+  "_catalogFetchedAt": "2026-11-10T20:36:26.633Z"
 }

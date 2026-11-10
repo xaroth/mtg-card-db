@@ -31,17 +31,17 @@
     }
   ],
   "prices": {
-    "usd": "3.61",
-    "usd_foil": "19.19",
+    "usd": "3.48",
+    "usd_foil": "18.39",
     "usd_etched": null,
-    "eur": "2.41",
-    "eur_foil": "8.33",
-    "tix": "0.56"
+    "eur": "2.42",
+    "eur_foil": "8.44",
+    "tix": "0.59"
   },
   "cardmarket_id": 741071,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/21/plains-plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
-  "_catalogFetchedAt": "2026-10-14T10:10:28.326Z"
+  "_catalogFetchedAt": "2026-11-10T20:35:43.512Z"
 }

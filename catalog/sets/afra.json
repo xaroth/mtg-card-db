@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "6aca36a6-c3b3-49b9-80e4-25b1487ca3d0",
+  "code": "afra",
+  "name": "Reality Fracture Art Series",
+  "uri": "https://api.scryfall.com/sets/6aca36a6-c3b3-49b9-80e4-25b1487ca3d0",
+  "scryfall_uri": "https://scryfall.com/sets/afra",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aafra&unique=prints",
+  "released_at": "2026-10-02",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "fra",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fra.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:31.068Z"
+}

@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1783933063"
   },
   "prices": {
-    "usd": "1.46",
-    "usd_foil": "7.64",
+    "usd": "1.59",
+    "usd_foil": "7.58",
     "usd_etched": null,
-    "eur": "1.33",
-    "eur_foil": "3.82",
+    "eur": "1.41",
+    "eur_foil": "2.73",
     "tix": "0.03"
   },
   "cardmarket_id": 374409,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/251/snow-covered-island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/8ac1fceb-8427-409c-98a4-9a5c1ff980b4",
-  "_catalogFetchedAt": "2026-10-14T10:10:09.014Z"
+  "_catalogFetchedAt": "2026-11-10T20:35:24.020Z"
 }

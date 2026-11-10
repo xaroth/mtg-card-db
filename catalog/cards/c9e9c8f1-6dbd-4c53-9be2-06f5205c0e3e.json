@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1783904225"
   },
   "prices": {
-    "usd": "15.20",
-    "usd_foil": "19.41",
+    "usd": "15.95",
+    "usd_foil": "18.79",
     "usd_etched": null,
-    "eur": "10.15",
-    "eur_foil": "11.47",
+    "eur": "10.22",
+    "eur_foil": "15.11",
     "tix": null
   },
   "cardmarket_id": 880321,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/sld/7104/reliquary-tower?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e",
-  "_catalogFetchedAt": "2026-10-14T10:10:36.237Z"
+  "_catalogFetchedAt": "2026-11-10T20:35:51.175Z"
 }

@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d2209e6f-1d9d-43bb-a314-a8fefc509e78.jpg?1783933063"
   },
   "prices": {
-    "usd": "0.88",
-    "usd_foil": "4.87",
+    "usd": "0.72",
+    "usd_foil": "4.86",
     "usd_etched": null,
-    "eur": "0.54",
-    "eur_foil": "1.88",
+    "eur": "0.63",
+    "eur_foil": "1.96",
     "tix": "0.03"
   },
   "cardmarket_id": 374415,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/253/snow-covered-mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/d2209e6f-1d9d-43bb-a314-a8fefc509e78",
-  "_catalogFetchedAt": "2026-10-14T10:10:09.420Z"
+  "_catalogFetchedAt": "2026-11-10T20:35:24.424Z"
 }

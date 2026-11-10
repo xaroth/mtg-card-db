@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "755f1d37-e6f7-4dfa-af2c-0707f644e853",
+  "code": "pw27",
+  "name": "Wizards Play Network 2027",
+  "uri": "https://api.scryfall.com/sets/755f1d37-e6f7-4dfa-af2c-0707f644e853",
+  "scryfall_uri": "https://scryfall.com/sets/pw27",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw27&unique=prints",
+  "released_at": "2027-01-01",
+  "set_type": "promo",
+  "card_count": 1,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1794200400",
+  "_catalogFetchedAt": "2026-11-10T20:36:32.067Z"
+}
