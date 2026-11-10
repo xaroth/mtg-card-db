@@ -24,7 +24,7 @@
       "collector_number": "294",
       "name": "Plains",
       "storage": {
-        "nonfoil": 1,
+        "nonfoil": 2,
         "foil": 0
       },
       "binders": [
@@ -150,7 +150,7 @@
       "collector_number": "301",
       "name": "Forest",
       "storage": {
-        "nonfoil": 1,
+        "nonfoil": 2,
         "foil": 0
       },
       "binders": [

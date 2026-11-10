@@ -25,7 +25,7 @@
       "name": "Plains",
       "storage": {
         "nonfoil": 7,
-        "foil": 0
+        "foil": 1
       },
       "binders": [
         {

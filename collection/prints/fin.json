@@ -60,7 +60,7 @@
       "collector_number": "297",
       "name": "Island",
       "storage": {
-        "nonfoil": 7,
+        "nonfoil": 8,
         "foil": 3
       },
       "binders": [
@@ -114,7 +114,7 @@
       "collector_number": "300",
       "name": "Swamp",
       "storage": {
-        "nonfoil": 7,
+        "nonfoil": 8,
         "foil": 3
       },
       "binders": [
@@ -132,7 +132,7 @@
       "collector_number": "301",
       "name": "Swamp",
       "storage": {
-        "nonfoil": 7,
+        "nonfoil": 8,
         "foil": 3
       },
       "binders": [

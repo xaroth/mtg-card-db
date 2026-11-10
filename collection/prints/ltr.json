@@ -49,6 +49,11 @@
         {
           "binder": "gamegenic-4x3-binder-1",
           "nonfoil": 1,
+          "foil": 1
+        },
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 0,
           "foil": 0
         }
       ],
